@@ -1,0 +1,13 @@
+ls
+
+git init
+
+git add .
+
+git status
+
+git commit -m "  "
+
+git remote add origin https://github.com/AmiraaIsmail/AVR32_Interfacing.git
+
+git push -u origin master
